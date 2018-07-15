@@ -1,0 +1,10 @@
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.csprojAssemblyReference.cache
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.Form1.resources
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.Properties.Resources.resources
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.csproj.GenerateResource.cache
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\Signer\Signer\bin\Debug\Signer.exe.config
+C:\Users\Wolf\source\repos\Signer\Signer\bin\Debug\Signer.exe
+C:\Users\Wolf\source\repos\Signer\Signer\bin\Debug\Signer.pdb
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.exe
+C:\Users\Wolf\source\repos\Signer\Signer\obj\Debug\Signer.pdb
